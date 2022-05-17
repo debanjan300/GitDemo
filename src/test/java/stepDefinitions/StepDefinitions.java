@@ -14,6 +14,7 @@ public class StepDefinitions {
     @Given("^User is on NetBAnking landing page$")
     public void user_is_on_netbanking_landing_page() throws Throwable {
        System.out.println("Navigated to login page");
+	//changes happened
     }
 
     @When("^User login into application with username and password$")
